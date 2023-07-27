@@ -4,8 +4,8 @@
   "description": "modular config with type casting and validation out of the box",
   "main": "index.js",
   "peerDependencies": {
-    "@nestjs/common": "^9.1.4",
-    "@nestjs/core": "^9.1.4"
+    "@nestjs/common": ">=7.2.0",
+    "@nestjs/core": ">=7.2.0"
   },
   "dependencies": {
     "@ukitgroup/class-transformer": "^1.0.1",
